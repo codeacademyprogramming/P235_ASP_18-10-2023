@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\bin\Debug\net6.0\P235OperatorOverloading.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\bin\Debug\net6.0\P235OperatorOverloading.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\bin\Debug\net6.0\P235OperatorOverloading.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\bin\Debug\net6.0\P235OperatorOverloading.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\bin\Debug\net6.0\P235OperatorOverloading.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\refint\P235OperatorOverloading.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\P235OperatorOverloading.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235OperatorOverloading\P235OperatorOverloading\obj\Debug\net6.0\ref\P235OperatorOverloading.dll

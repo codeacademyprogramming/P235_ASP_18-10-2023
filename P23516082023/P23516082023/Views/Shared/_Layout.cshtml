@@ -1,0 +1,17 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <ul>
+        <li><a asp-controller="home" asp-action="index">Home</a></li>
+        <li><a asp-controller="about" asp-action="index" asp-route-age="33" asp-route-name="Hamid">Avout</a></li>
+    </ul>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

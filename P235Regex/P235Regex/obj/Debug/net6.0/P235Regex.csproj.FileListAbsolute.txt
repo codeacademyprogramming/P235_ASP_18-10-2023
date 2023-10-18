@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\bin\Debug\net6.0\P235Regex.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\bin\Debug\net6.0\P235Regex.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\bin\Debug\net6.0\P235Regex.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\bin\Debug\net6.0\P235Regex.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\bin\Debug\net6.0\P235Regex.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\refint\P235Regex.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\P235Regex.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Regex\P235Regex\obj\Debug\net6.0\ref\P235Regex.dll

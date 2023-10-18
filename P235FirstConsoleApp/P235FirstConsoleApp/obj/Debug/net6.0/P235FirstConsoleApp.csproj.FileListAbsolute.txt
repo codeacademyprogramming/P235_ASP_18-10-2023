@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\bin\Debug\net6.0\P235FirstConsoleApp.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\bin\Debug\net6.0\P235FirstConsoleApp.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\bin\Debug\net6.0\P235FirstConsoleApp.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\bin\Debug\net6.0\P235FirstConsoleApp.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\bin\Debug\net6.0\P235FirstConsoleApp.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\refint\P235FirstConsoleApp.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\P235FirstConsoleApp.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235FirstConsoleApp\P235FirstConsoleApp\obj\Debug\net6.0\ref\P235FirstConsoleApp.dll

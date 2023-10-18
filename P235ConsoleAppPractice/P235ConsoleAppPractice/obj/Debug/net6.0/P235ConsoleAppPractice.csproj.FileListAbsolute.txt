@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\bin\Debug\net6.0\P235ConsoleAppPractice.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\bin\Debug\net6.0\P235ConsoleAppPractice.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\bin\Debug\net6.0\P235ConsoleAppPractice.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\bin\Debug\net6.0\P235ConsoleAppPractice.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\bin\Debug\net6.0\P235ConsoleAppPractice.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\refint\P235ConsoleAppPractice.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\P235ConsoleAppPractice.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ConsoleAppPractice\P235ConsoleAppPractice\obj\Debug\net6.0\ref\P235ConsoleAppPractice.dll

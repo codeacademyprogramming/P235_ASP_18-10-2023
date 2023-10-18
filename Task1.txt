@@ -1,0 +1,275 @@
+TASK - 
+Human
+ - Name
+ - Surname
+
+
+ Employee:Human
+
+ - Position
+ - Salary
+
+ 
+Name ve surname deyerleri teyin edilmeden
+ Human obyekti yaradila bilminmez
+
+TASK - 
+Car class
+ - Brand
+ - Model
+ - Year
+ - Price
+
+
+Verilmis car arrayindeki carlarin ortalama qiymetini 
+hesablayan metod yazirsiniz
+
+
+
+Task - 1:
+Ədədin istənilən qüvvətini tapan alqoritmi qurmaq.
+
+Task - 2:
+Array-də(minimum 5 element olsun) cüt ədədlərlə tək ədədlərin fərqini tapan algorithmi qurun;
+
+Task - 3:
+Array-də(minimum 5 element olsun) 3 rəqəmli ədədlərlə digər ədədlər arasındakı fərqi tapan algorithmi qurun;
+
+Task - 4:
+Array-i(minimum 5 element olsun) tərsinə çevirən(reverse) algorithmi qurun(Misal: [10, 45, 32, 48, 72] => [72, 48, 32, 45, 10]);
+
+Task - 5
+2 arrayımız var. Birinci arrayda olan və eynizamanda ikincidə olmayan bütün elementləri print edin. (diaqram ilə). Misal üçün: numbers1 = [4, 5, 2, 6, 4, 3] numbers2 = [7, 4, 2, 76, 45, 65] Output-da yalnız 5, 6 və 3 olmalıdır.
+
+Task -6
+
+Vehicle class
+
+Color
+Year
+Qeyd: Buraxilis ili teyin olunmamis Vehicle ola bilmez
+
+Car : Vehicle
+
+Brand
+
+Model
+
+FuelCapacity
+
+FuelFor1Km
+
+CurrentFuel
+
+ShowInfo() - mecburi deyil
+
+AddFuel()- parameter olaraq nece litr elave etmek istenildiyi gonderilir
+
+Drive() - parametr nece km gedileceyini 
+Qeyd: Modeli, brandi,FuelFor1km, FuelCapacity teyin olunmamis Car obyekti ola bilmez
+
+Task - 7
+Gonderilmis ededler siyahisini icinde yalnizca cut ededler qalan yeni bir array-e ceviren metod (gonderilen array variableninn ozunu - referance)
+
+Task - 8
+Gonderilmis string deyerinde neçe soz oldugunu tapan metod.(string uzerinde sozler arasinda bir bosluq var)
+
+Task - 9
+Gonderilmis string deyerinin asagidaki sertleri odeyib odemediyini qaytaran metod
+
+icinde en az 1 reqem olmalidir
+icinde en az 1 boyuk herf olmalidir
+icinde en az 1 kicik herf olmalidir
+
+Task - 10
+Parameter olaraq integer array variable-i (reference) ve bir integer value qebul eden ve hemin integer value-nu integer array-e yeni element kimi elave eden metod.
+
+Task - 11
+Asagidaki member-lerden ibaret User class-i yaradin:
+
+UserName - istifadeci adini ifade edir
+Password - istifadeci sifresini ifade edir
+
+UserName deyeri teyin olunmamis User obyekti yaradila bilinmemelidir. UserName deyerinin uzunlugu minimum 8 olmalidr.
+Password deyerinin uzunlugu minimum 8 olmalidir ve icinde en az 1 boyuk herf,1 kicik herf ve 1 reqem olmalidir.Eks teqdirde password deyeri set oluna bilinmemelidir.
+
+Layihe run olduqda console penceresinden isitfadeciden username daxil etmesi istenilmelidir.Eger daxil edilen username UserName memberinin sertlerini odemirse istifadeciden yeniden username daxil etmesi istenilmelidir (duz yazanadek bu proses davam etmelidir).Daha sonra console penceresinden password deyerini daxil etmesi istenilmelidir.Eger daxil edilen deyern Password memberinin sertlerini odemirse yeniden daxil edilmesi istenilmelidir ta ki duz yazana qeder.Her iki deyer duz olduqdan sonra User obyekti yaradilir. (Encapsulatin tetqibi mutleqdir !)
+
+Task - 12
+Asagidaki member-lerden ibaret Product class-i yaradin:
+
+Name - mehsulun adi
+Price - mehsulun qiymeti
+Count - mehsulun sayi
+TotalIncome - bu mehsulun satislarindan elde olunan umumi gelir
+
+Sell() - mehsulun satisi metodu. Bu metod Product-dan bir eded satilmasini ifade edir. Satis bas verdikde say azalir (productin sayi sifirdisa satis bas vere bilmez), income artir.
+Name fieldininn value-su teyin olunmamsis bir product obyekti yaradila bilinmemelidir.
+
+Asagidaki memberlerden ibared Milk class - i yaradin ve Productdan miras verin:
+
+Volume - Bu xususiyyet Milkin hecmini ifade edir (Litr olaraq)
+FatRate - Bu xususiyyet sudun yagliliq faizini ifade edir (sudun nece faiz yagli oldugunu)
+
+Task - 13
+Asagidaki memberlerden ibaret Book class-i yaradirsiniz:
+
+Name
+Count
+PageCount
+
+ps: name ve count deyerleri teyin olunmammis Book obyekti yaranmamalidir. PageCount deyeri 10-dan kicik ola bilmez ve Name deyerinin uzunlugu 3-den qisa ola bilmez. 
+Main hissesinde 10 Elementden Ibaret Book arrayi olsun. Kitab deyerleri console-dan daxil edilsin ve yaradilsin, array-e elave edilsin. Sonda arraydeki kitablarin Name ve PageCount deyerleri console penceresinde gosterilsin.
+
+Task - 14
+Asagidaki parameterlerden ibret Studnet class-i yaradirsini
+
+Name
+Surname
+
+Asagidaki parameterlerden ibaret Gorup class-i yaradirsiniz:
+
+No - Group nomresini ifade edir
+Limit - Group-da ola bilecek maximum telebe sayini ifade edir
+Students - Group-unicerisindeki telebeleri ifade edir (Student typda array)
+
+AddStudent() - metod prameter olaraq Student typinda obyekt qebul edir ve onu eger groupda yer varsa groupun studnets arrayine elave edir
+GetStudnets() - bu metod studnetler siyahisini geriye qaytarir
+ps: Group obyekti uzerinde Studnetlere birbasa value set oluna bilinmemelidir, yalnizca AddStudent metodu ile group obyekti icindeki Students arrayine deyer elave etmek mumkundur
+
+Task - 15
+Asagidaki parametrlerden ibaret Vehicle class-i yaradirsiniz
+
+Color
+Brand
+Millage - bu vaxta qeder getmis oldugu mesafeni ifade edir (km olaraq)
+
+ShowInfo() - bu metod virtualdir ve console-a brand,color ve millage yazdirir
+
+Drive() - parameter olaraq kesirli eded qebul edir (km-i ifade etmek ucun), abstract bir metoddur
+
+Car ve Bycle claslari yaradirsiniz, her bir class-a Vehicle classini miras verirsiniz.Carin elave olaraq FuelCapacity ,CurrentFuel, FuelFor1km fieldleri var. Drive metodu car uzerinde istifade olunduqda birinci var olan benzin miqdari ile bu mesfeninin gedilib gedile bilmeyeceyi yoxlanmalidir, daha sonra eger gedirle bilerse benzin azalmali ve millage artmalidir.Bycle classinda ise Drive olunduqda millage artmalidir
+
+Task - 16
+Asagidaki parameterlerden ibret Employe class-i yaradirsini
+
+No - iscinin nomresi company-e elave edilme sirasina gore olur (company-e birinic elave edilen iscinin no deyrei 1, ikincide 2 olsun)
+Fullname
+Salary
+Position - iscinin sirketdeki vezifesi
+Asagidaki parameterlerden ibaret Company class-i yaradirsiniz:
+
+Name - Company adini ifade edir.Company adi boyuk herfle baslamalidir ve icerisinde herf,reqem ve bosluqdan basqa hec ne (simvol) ola bilmez
+Limit - Company-da ola bilecek maximum isci sayini ifade edir
+Employees - Company-in icerisindeki iscilerin sayini ifade edir (Employee typda array)
+AddEmoployee() - metod prameter olaraq Student typinda obyekt qebul edir ve onu eger groupda yer varsa groupun studnets arrayine elave edir
+GetEmployees() - bu metod studnetler siyahisini geriye qaytarir
+SearchEmployees(stiring search) - bu metod adinda gonderilmsis string dyeri olan employee siyahisini geriye qaytarir
+RemoveEmployee - bu metod parameter oalraq silmek istediyimiz employeenin nomresini qebul edir, misalcun metodu call edib 5 deyeri gondersek No deyeri 5 olan employee array-den silinmelidir ps: Company obyekti uzerinde Employeelere birbasa value set oluna bilinmemelidir, yalnizca AddEmployee metodu ile Company obyekti icindeki Employees arrayine deyer elave etmek mumkundur
+
+Task - 17
+Asagidaki metodlari olan IAccount interface yaradirsiniz :
+
+PasswordChecker() - parameter oalraq string sifreni qebul edir
+ShowInfo()
+Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount-u implement edirsiniz:
+
+Fullname
+
+Email
+
+Password
+
+PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir. Şertler: - sifrede minimum 8 character olmalidir - sifrede en az 1 boyuk herf olmaldir - sifrede en az 1 kicik herf olmalidir - sifrede en az 1 reqem olmalidir
+
+ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+
+ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker metodunun sertlerini odemesi lazimdir.
+
+Task - 18
+Student class-i yaradin:
+
+Fullname
+GroupNo
+Age
+GroupNo memberi ardicil olaraq bir boyuk verf ve 3 reqemli bir natural ededed ibaret olmalidir (misalcun: P216) Fullname memberi ad ve soyadi ifade edir,ona gore de fullname value-u ad ve soyaddan ibaret olmalidir.Formati ad +bosluq+soyad seklinde olmalidir (misalcu: "Abbas Quliyev")
+
+static CheckGroupNo() - parametr olaraq gonderilen groupNo value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir static CheckFullname() - parametr olaraq gonderilen fullname value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir
+
+ps:Student yaradilarken butun deyerlerin verilmesi mecburidir.Main hissesinde Student yaratmaq ucun console-dan deyer qebul edin ve gonderilmis deyerler duzgun olanadek yeniden daxil edilmesini temin edin.
+
+Task - 19
+asagidaki metodlardan iabret static ExtentionMethods class-i yaradin.
+
+IsOdd() - int obyektler ucun hemin obyektin tek eded olub olmadigini geri qaytaran (true/false) method
+
+IsEven() - int obyektler ucun hemin obyektin cut eded olub olmadigini geri qaytaran (true/false) method
+
+IsContainsDigit() - string obyektler ucun hemin obyektin daxilinde digit charactre olub olmamsini geri qaytaran(true/false) metod
+
+GetValueIndexes() - string-ler ucun parameter oaraq gonderilen charin stringin hansi indexlerinde yerlesdiyini tapan ve tapdigi butun indexleri array olaraq geri qaytaran metod (hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+
+GetValueIndexes() - integer array-leri ucun parameter olaraq gonderilmis integer deyerinin bu arrayin hansi indexlerinde oldugunu tapi ,butun tapdigi indexleri array olaraq geri qaytaran metod .(hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+
+Task - 20
+Asagidaki parameterlerden ibaret Product class-i yardirsiniz:
+Code - mehsulun kodunu ifade edir. misalcun , eger type Bakery ve mehsul 1-ci yaradilmis Product obyektidirse value-su B1001 olmalidir (dersde etdiyime oxsar sekilde) Yəni Code deyeri mehsulun typinin bas herfi ve necenci yaranmis obyekt olmasinda ibaretdir(siralama 1000-den baslayir)
+Name - mehsulun adini ifade edir
+Price - mehsulun qiymetini ifade edir
+DiscountedPrice - mehsulun endirimli qiymetini ifade edir
+Type - mehsulun novunu ifade edir
+TotalCount - bu classs-dan nece obyket yaradildigini gosterir
+Mehsul Type deyeri ProductType enumidir.Type deyeri Bakery,Drink,Meat,Fish ola biler. Product obyekti yaradilarken type ve price deyerlerini gonderilmesi mecburidir.Eger Type Bakery olarsa mehsula 10% endirim tetbiq olunmalidir.
+
+
+Asagidaki parameterlerden ibret Employee class-i yaradirsini
+No - iscinin nomresi company-e elave edilme sirasina gore olur (company-e birinic elave edilen iscinin no deyrei 1, ikincide 2 olsun)
+Fullname
+Salary
+Position - iscinin sirketdeki vezifesi
+Asagidaki parameterlerden ibaret Company class-i yaradirsiniz:
+Name - Company adini ifade edir. Company adi boyuk herfle baslamalidir ve icerisinde herf,reqem ve bosluqdan basqa hec ne (simvol) ola bilmez
+Limit - Company-da ola bilecek maximum isci sayini ifade edir
+Employees - Company-in icerisindeki iscilerin siyahisini ifade edir (Employee typda array)
+AddEmoployee() - metod prameter olaraq  Employee  typinda obyekt qebul edir ve onu eger  Company - da yer varsa  Company -nin  Employees arrayine elave edir
+GetEmployees() - bu metod  Employee-larin siyahisini geriye qaytarir
+
+
+Asagidaki metodlari olan IAccount interface yaradirsiniz :
+PasswordChecker() - parameter oalraq string sifreni qebul edir
+ShowInfo()
+
+Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount interface-dan miras alib methodlari implement edirsiniz implement elediyniz methodlarin bodylerinde uygun alqoritmleri qurursunuz:
+Fullname
+Email
+Password
+PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir. Şertler: - sifrede minimum 8 character olmalidir - sifrede en az 1 boyuk herf olmaldir - sifrede en az 1 kicik herf olmalidir - sifrede en az 1 reqem olmalidir
+ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir. Usere sifre teyin edilerken sifrenin PasswordChecker metodunun sertlerini odemesi lazimdir.
+
+
+Asagidaki Memberlerden ibaret Student adinda class yaradin:
+FullName
+GroupNo
+Age
+GroupNo memberi ardicil olaraq bir boyuk verf ve 3 reqemli bir natural edededen ibaret olmalidir (misalcun: P225)  FullName memberi ad ve soyadi ifade edir, ona gore de  FullName deyeri ad ve soyaddan ibaret olmalidir. Formati ad +bosluq+soyad seklinde olmalidir (misalcu: "Abbas Quliyev")
+static CheckGroupNo()  method yaradirsiniz - parametr olaraq gonderilen groupNo value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir 
+static CheckFullname() method yaradirsiniz - parametr olaraq gonderilen fullname value-nun dogru olub olmamasini yoxlayir ve true/false qaytrir
+Qeyd:Student yaradilarken butun deyerlerin verilmesi mecburidir. Main hissesinde Student yaratmaq ucun console-dan deyer qebul edin ve gonderilmis deyerler duzgun olanadek yeniden daxil edilmesini temin edin.
+
+
+Asagidaki metodlardan iabret static ExtentionMethods class-i yaradin:
+IsEven() - int deyerler ucun hemin deyerini cut eded olub olmadigini geri (true/false) qaytaran  method
+GetValueIndexes() - integer array-leri ucun parameter olaraq gonderilmis integer deyerinin bu arrayin hansi indexlerinde oldugunu tapib ,butun tapdigi indexleri array olaraq geri qaytaran metod .(hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+IsOdd() - int deyerler ucun hemin deyerin tek eded olub olmadigini geri (true/false) qaytaran method
+IsContainsDigit() - string deyerler ucun hemin deyerin daxilinde digit character olub olmamsini axtarib geri (true/false)   qaytaran metod
+GetValueIndexes() - string-ler ucun parameter oaraq gonderilen charin stringin hansi indexlerinde yerlesdiyini tapan ve tapdigi butun indexleri array olaraq geri qaytaran metod (hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+
+
+Asagidaki parameterlerden ibaret Product class-i yardirsiniz:ProductType - mehsulun novunu ifade edir
+Code - mehsulun kodunu ifade edir. misalcun , eger ProductType memberinin deyeri  Bakery ve mehsul 1-ci yaradilmis Product obyektidirse value-su B1001 olmalidir. Yəni Code deyeri mehsulun ProductType memberinin deyerinin bas herfi ve necenci yaranmis obyekt olmasinda ibaretdir(siralama 1000-den baslayir)
+Name - mehsulun adini ifade edir
+Price - mehsulun qiymetini ifade edir
+DiscountedPrice - mehsulun endirimli qiymetini ifade edir
+TotalCount - bu classs-dan nece obyket yaradildigini gosterir
+Qeyd. Mehsulun Type deyeri ProductType enumidir.Type deyeri - Bakery, Drink, Meat, Fish ola biler. Product obyekti yaradilarken  ProductType  ve  Price  deyerlerini gonderilmesi mecburidir. Eger Type Bakery olarsa mehsula 10% endirim tetbiq olunmalidir.

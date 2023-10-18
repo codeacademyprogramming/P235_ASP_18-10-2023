@@ -1,0 +1,78 @@
+﻿@model List<Group>
+<ul>
+    @foreach (Group group in Model)
+    {
+        <a asp-controller="Home" asp-action="Detail" asp-route-id="@group.Id">
+            <li>@group.Name</li>
+        </a>
+    }
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*@model IndexVM*@
+@*@{
+    ViewData["Title"] = "Home Index";
+
+
+    ViewBag.Test = "P235";
+    int a = 10;
+
+}*@
+
+@*@{
+    Student student = ViewBag.stu;
+    Group group = ViewBag.group;
+}*@
+
+
+@*<h1>Index</h1>
+<ul>
+    <li>@Model.Student.Name</li>
+    <li>@Model.Group.Name</li>
+</ul>*@
+@*<ul>
+    <li>@student.Name</li>
+    <li>@group.Name</li>
+    <li></li>
+</ul>*@
+
+@*<ul>
+    <li>@Model.Name</li>
+    <li>@Model.SurName</li>
+    <li>@Model.Age</li>
+</ul>*@
+@*<ul>
+    <li>ViewData: @ViewBag.Name</li>
+    <li>ViewBag: @ViewData["age"]</li>
+    <li>TempData: @TempData["surname"]</li>
+    <li>Internal View Variable: @a</li>
+    <li>Internal View Variable: @ViewBag.Test</li>
+</ul>*@
+

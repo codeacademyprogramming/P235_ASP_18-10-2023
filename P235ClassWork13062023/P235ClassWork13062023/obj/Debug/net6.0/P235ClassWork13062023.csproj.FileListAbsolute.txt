@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\bin\Debug\net6.0\P235ClassWork13062023.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\bin\Debug\net6.0\P235ClassWork13062023.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\bin\Debug\net6.0\P235ClassWork13062023.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\bin\Debug\net6.0\P235ClassWork13062023.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\bin\Debug\net6.0\P235ClassWork13062023.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\refint\P235ClassWork13062023.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\P235ClassWork13062023.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235ClassWork13062023\P235ClassWork13062023\obj\Debug\net6.0\ref\P235ClassWork13062023.dll

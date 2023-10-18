@@ -1,0 +1,23 @@
+﻿@model Group
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+<ul>
+    <li>@Model.Id</li>
+    <li>@Model.Name</li>
+    <li>@Model.Count</li>
+    <li>@Model.EducationType</li>
+    <a asp-controller="Studnet" asp-action="index" asp-route-id="@Model.Id">
+        <li>
+            Telebeler
+        </li>
+    </a>
+</ul>
+@*<ul>
+    <li>ViewData: @ViewBag.Name</li>
+    <li>ViewBag: @ViewData["age"]</li>
+    <li>TempData: @TempData["Name"]</li>
+    <li>Internal View Variable: @ViewBag.Test</li>
+</ul>*@

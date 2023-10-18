@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\bin\Debug\net6.0\P235Inheritance.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\bin\Debug\net6.0\P235Inheritance.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\bin\Debug\net6.0\P235Inheritance.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\bin\Debug\net6.0\P235Inheritance.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\bin\Debug\net6.0\P235Inheritance.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\refint\P235Inheritance.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\P235Inheritance.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Inheritance\P235Inheritance\obj\Debug\net6.0\ref\P235Inheritance.dll

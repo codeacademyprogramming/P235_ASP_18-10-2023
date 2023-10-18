@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\bin\Debug\net6.0\P23530052023HomeWork1.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\bin\Debug\net6.0\P23530052023HomeWork1.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\bin\Debug\net6.0\P23530052023HomeWork1.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\bin\Debug\net6.0\P23530052023HomeWork1.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\bin\Debug\net6.0\P23530052023HomeWork1.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\refint\P23530052023HomeWork1.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\P23530052023HomeWork1.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWork1\P23530052023HomeWork1\obj\Debug\net6.0\ref\P23530052023HomeWork1.dll

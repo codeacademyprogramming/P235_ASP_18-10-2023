@@ -1,0 +1,19 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <a asp-controller=""></a>
+    @*<h1>Layout: @ViewBag.Test</h1>
+    <h1>Layout: @ViewBag.Name</h1>
+    <h1>Layout: @ViewData["age"]</h1>
+    <h1>Layout: @TempData["Name"]</h1>*@
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

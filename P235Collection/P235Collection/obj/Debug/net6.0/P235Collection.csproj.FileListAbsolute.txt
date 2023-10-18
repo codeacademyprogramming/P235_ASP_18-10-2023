@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\bin\Debug\net6.0\P235Collection.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\bin\Debug\net6.0\P235Collection.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\bin\Debug\net6.0\P235Collection.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\bin\Debug\net6.0\P235Collection.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\bin\Debug\net6.0\P235Collection.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\refint\P235Collection.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\P235Collection.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Collection\P235Collection\obj\Debug\net6.0\ref\P235Collection.dll

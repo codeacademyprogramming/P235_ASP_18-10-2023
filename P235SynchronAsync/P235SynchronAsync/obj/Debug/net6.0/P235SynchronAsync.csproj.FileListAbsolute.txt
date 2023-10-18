@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\bin\Debug\net6.0\P235SynchronAsync.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\bin\Debug\net6.0\P235SynchronAsync.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\bin\Debug\net6.0\P235SynchronAsync.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\bin\Debug\net6.0\P235SynchronAsync.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\bin\Debug\net6.0\P235SynchronAsync.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\refint\P235SynchronAsync.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\P235SynchronAsync.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235SynchronAsync\P235SynchronAsync\obj\Debug\net6.0\ref\P235SynchronAsync.dll

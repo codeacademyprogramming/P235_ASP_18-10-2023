@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\bin\Debug\net6.0\P23526052023Polymorphsym.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\bin\Debug\net6.0\P23526052023Polymorphsym.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\bin\Debug\net6.0\P23526052023Polymorphsym.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\bin\Debug\net6.0\P23526052023Polymorphsym.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\bin\Debug\net6.0\P23526052023Polymorphsym.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\refint\P23526052023Polymorphsym.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\P23526052023Polymorphsym.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23526052023Polymorphsym\P23526052023Polymorphsym\obj\Debug\net6.0\ref\P23526052023Polymorphsym.dll

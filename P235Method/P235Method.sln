@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P235Method", "P235Method\P235Method.csproj", "{08081057-8303-4455-A00E-91B505125207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08081057-8303-4455-A00E-91B505125207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08081057-8303-4455-A00E-91B505125207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08081057-8303-4455-A00E-91B505125207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08081057-8303-4455-A00E-91B505125207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0261EE3B-F7FC-439E-A88E-ED44D45562F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+
+
+Asagidaki memberlerden ibaret Book class Yaradin:
+Code - Her kitabin adinin ilk iki herifi ve kitabin yaranma sirasindan ibaretdir, misalcun "programming" adli kitab 10-cu yaranmis kitabdirsa Code-u PR10 olmalidir
+Name
+AuthorName
+PageCount
+
+Asagidaki Memmberlerden Ibaret Library class Yaradin:
+Books - Book claasi Type-da List Olacaq
+FindAllBooksByName() - paramettr oalraq string value qebul edir ve adinda hemin string value olan book-lardan ibaret list qaytarir
+RemoveAllBookByName() - paramter olaraq string value gonderilir ve adinda hemin string value olan book-lari silir
+SearchBooks() - parameter olaraq string qebul edir ve Name, AuthorName, PageCount deyerlerinden her hanasi birinde gonderilmis string valuesu olan book-lardan ibaret list qaytarir
+FindAllBooksByPageCountRange() - parametr olaraq iki integer qebul edir (minimum sehife ve maximum sehife sayi kimi) ve pagecount deyeri hemin araliqda olan booklardan ibaret list qaytarir
+RemoveByNo() - parameter olaraq string value qebul edir ve nomresi hemin string value olan book-u siyahidan silir

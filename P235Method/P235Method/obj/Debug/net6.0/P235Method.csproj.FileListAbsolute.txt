@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\bin\Debug\net6.0\P235Method.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\bin\Debug\net6.0\P235Method.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\bin\Debug\net6.0\P235Method.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\bin\Debug\net6.0\P235Method.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\bin\Debug\net6.0\P235Method.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\refint\P235Method.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\P235Method.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Method\P235Method\obj\Debug\net6.0\ref\P235Method.dll

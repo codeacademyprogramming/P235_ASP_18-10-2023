@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="P235ClassLibrary">
+      <HintPath>..\..\P235ClassLibrary\P235ClassLibrary\bin\Debug\net6.0\P235ClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+﻿@model List<CarModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="background-color:@(Model.Count > 10 ? "red":"green")">Index</h1>
+
+<ul>
+    @foreach (CarModel carModel in Model)
+    {
+        <a asp-controller="Car" asp-action="Index" asp-route-id="@carModel.Id">
+        <li>@carModel.Name</li>
+        </a>
+    }
+</ul>

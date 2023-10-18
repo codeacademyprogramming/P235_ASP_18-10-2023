@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+
+
+
+Verilmiş A və B ədədləri arasında 3 ə tam bölünənlərnin cəmini tapıp yazdıran alqoritm Qurun.

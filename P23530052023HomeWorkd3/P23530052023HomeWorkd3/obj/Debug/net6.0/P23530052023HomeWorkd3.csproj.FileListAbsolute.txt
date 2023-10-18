@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\bin\Debug\net6.0\P23530052023HomeWorkd3.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\bin\Debug\net6.0\P23530052023HomeWorkd3.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\bin\Debug\net6.0\P23530052023HomeWorkd3.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\bin\Debug\net6.0\P23530052023HomeWorkd3.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\bin\Debug\net6.0\P23530052023HomeWorkd3.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\refint\P23530052023HomeWorkd3.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\P23530052023HomeWorkd3.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23530052023HomeWorkd3\P23530052023HomeWorkd3\obj\Debug\net6.0\ref\P23530052023HomeWorkd3.dll

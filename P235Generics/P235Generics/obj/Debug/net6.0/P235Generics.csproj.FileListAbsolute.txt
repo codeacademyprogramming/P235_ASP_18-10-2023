@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\bin\Debug\net6.0\P235Generics.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\bin\Debug\net6.0\P235Generics.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\bin\Debug\net6.0\P235Generics.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\bin\Debug\net6.0\P235Generics.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\bin\Debug\net6.0\P235Generics.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\refint\P235Generics.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\P235Generics.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P235Generics\P235Generics\obj\Debug\net6.0\ref\P235Generics.dll

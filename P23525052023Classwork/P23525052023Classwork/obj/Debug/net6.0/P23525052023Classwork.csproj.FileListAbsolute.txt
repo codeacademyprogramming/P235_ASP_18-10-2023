@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\bin\Debug\net6.0\P23525052023Classwork.exe
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\bin\Debug\net6.0\P23525052023Classwork.deps.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\bin\Debug\net6.0\P23525052023Classwork.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\bin\Debug\net6.0\P23525052023Classwork.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\bin\Debug\net6.0\P23525052023Classwork.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\refint\P23525052023Classwork.dll
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.pdb
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\P23525052023Classwork.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P235\Project\P23525052023Classwork\P23525052023Classwork\obj\Debug\net6.0\ref\P23525052023Classwork.dll

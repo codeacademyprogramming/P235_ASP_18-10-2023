@@ -1,0 +1,69 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "Detail";
+    int no = 0;
+}
+
+<!-- Page Heading -->
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Brand Detail</h1>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Order NO: @Model.No</h5>
+                <h5 class="card-title">Order Status: @Model.Status</h5>
+                <h5 class="card-title">Order User: @Model.User?.Name @Model.User?.SurName</h5>
+                <h5 class="card-title">Order Comment: @Model.Comment</h5>
+                <h5 class="card-title">Order Name: @Model.Name</h5>
+                <h5 class="card-title">Order SurName: @Model.SurName</h5>
+                <h5 class="card-title">Order Email: @Model.Email</h5>
+                <h5 class="card-title">Order Country: @Model.Country</h5>
+                <h5 class="card-title">Order Town: @Model.Town</h5>
+                <h5 class="card-title">Order State: @Model.State</h5>
+                <h5 class="card-title">Order Address Line 1: @Model.Line1</h5>
+                <h5 class="card-title">Order Address Line 2: @Model.Line2</h5>
+                <h5 class="card-title">Order Postal Code: @Model.PostalCode</h5>
+            </div>
+        </div>
+    </div>
+    @if (Model.OrderProducts != null && Model.OrderProducts.Count() > 0)
+    {
+        <div class="col-lg-12 mt-3">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>№</th>
+                        <th>Title</th>
+                        <th>Price</th>
+                        <th>Ext Tax</th>
+                        <th>Count</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (OrderProduct orderProduct in Model.OrderProducts)
+                    {
+                        no++;
+                        <tr>
+                            <td>@no</td>
+                            <td>@orderProduct.Title</td>
+                            <td>@orderProduct.Price</td>
+                            <td>@orderProduct.ExTag</td>
+                            <td>@orderProduct.Count</td>
+                            <td>@(orderProduct.Count * (orderProduct.Price + orderProduct.ExTag))</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    <div class="col-lg-12">
+        @await Html.PartialAsync("_OrderStatusPartial",new P235AllupDb.Areas.Manage.ViewModels.OrderVMs.OrderVM{Id = Model.Id,UserId = Model.UserId,Comment = Model.Comment,Status = Model.Status})
+    </div>
+    <div class="col-lg-12 mt-3">
+        <a asp-area="manage" asp-controller="order" asp-action="index" class="btn btn-primary">Go Home</a>
+    </div>
+</div>

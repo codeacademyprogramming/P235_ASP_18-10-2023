@@ -1,0 +1,93 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Detatil";
+    bool check = true;
+    bool checkConten = true;
+}
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs" data-aos="fade-in">
+        <div class="container">
+            <h2>Course Details</h2>
+            <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        </div>
+    </div><!-- End Breadcrumbs -->
+    <!-- ======= Cource Details Section ======= -->
+    <section id="course-details" class="course-details">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <img src="~/assets/img/@Model.Image" class="img-fluid" alt="">
+                    <h3>@Model.Name</h3>
+                    <p>@Model.Description</p>
+                </div>
+                <div class="col-lg-4">
+
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Trainer</h5>
+                        <p><a >@Model.Trainer.Name @Model.Trainer.SurName</a></p>
+                    </div>
+
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Course Fee</h5>
+                        <p>$@Model.Price</p>
+                    </div>
+
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Available Seats</h5>
+                        <p>@Model.AvailableSeat</p>
+                    </div>
+
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Schedule</h5>
+                        <p>@Model.Schedule</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Cource Details Section -->
+    <!-- ======= Cource Details Tabs Section ======= -->
+    <section id="cource-details-tabs" class="cource-details-tabs">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <ul class="nav nav-tabs flex-column">
+                        @foreach (CourseSection courseSection in Model.CourseSections)
+                        {
+                            <li class="nav-item ">
+                                <a class="nav-link @(check ? "active show":"")" data-bs-toggle="tab" href="#tab-@courseSection.Id">@courseSection.Name</a>
+                            </li>
+                            check = false;
+                        }
+                    </ul>
+                </div>
+                <div class="col-lg-9 mt-4 mt-lg-0">
+                    <div class="tab-content">
+                        @foreach (CourseSection courseSection in Model.CourseSections)
+                        {
+                            <div class="tab-pane @(checkConten ? "active show":"")" id="tab-@courseSection.Id">
+                                <div class="row">
+                                    <div class="col-lg-8 details order-2 order-lg-1">
+                                       @courseSection.Description
+                                    </div>
+                                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/assets/img/@courseSection.Image" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                            checkConten = false;
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Cource Details Tabs Section -->
+
+</main><!-- End #main -->

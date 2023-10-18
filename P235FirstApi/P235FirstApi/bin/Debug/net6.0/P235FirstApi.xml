@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>P235FirstApi</name>
+    </assembly>
+    <members>
+        <member name="T:P235FirstApi.Controllers.CategoriesController">
+            <summary>
+            Category Services
+            </summary>
+        </member>
+        <member name="M:P235FirstApi.Controllers.CategoriesController.Post(P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTO)">
+            <summary>
+            Category Create Service P235
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/Categories
+                {        
+                  "name": "Elektronika",
+                  "isMain": "true",
+                  "image": "sekil1.jpg",
+                  "parentId": "2"
+                }
+            </remarks>
+            <param name="categoryPostDTO"></param>
+            <returns></returns>
+            <response code="201">Returns the newly created item</response>
+            <response code="400">Same Name Error</response>      
+            <response code="409">Parent Id In Correct</response>      
+        </member>
+        <member name="M:P235FirstApi.Controllers.CategoriesController.Get">
+            <summary>
+            Get List Category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTO">
+            <summary>
+            Categorya Create Model
+            </summary>
+        </member>
+        <member name="P:P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTO.Ad">
+            <summary>
+            Category Name
+            </summary>
+        </member>
+        <member name="P:P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTO.Esasdir">
+            <summary>
+            Category When True Image Requiered else ParentId Required
+            </summary>
+        </member>
+        <member name="T:P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTOValidator">
+            <summary>
+            Validator
+            </summary>
+        </member>
+        <member name="M:P235FirstApi.DTOs.CategoriesDTOs.CategoryPostDTOValidator.#ctor(P235FirstApi.DataAccesslayer.AppDbContext)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="_context"></param>
+        </member>
+        <member name="M:P235FirstApi.DTOs.CategoriesDTOs.CategoryPutDTOValidator.#ctor(P235FirstApi.DataAccesslayer.AppDbContext)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="_context"></param>
+        </member>
+    </members>
+</doc>
